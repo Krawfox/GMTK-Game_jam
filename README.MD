@@ -22,6 +22,9 @@ This is a dervied version of Sensei developed specifically for the GMTK game jam
 Only my Itch webpage :
 - link : https://arsukie.itch.io/sensei-run
 
+## NOTE 
+Since I forgot to init the github early on I do severely lack the commits you can check Updates.md for the updates and changes I made.
+
 ## Credits 
 The UI assets are taken from : "https://toffeecraft.itch.io/ui-user-interface-medieval"
 

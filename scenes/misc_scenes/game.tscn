@@ -997,7 +997,7 @@ distance = -261.0
 [node name="game" type="Node2D" unique_id=2082298226]
 
 [node name="Player" parent="." unique_id=155323762 instance=ExtResource("1_kqrfg")]
-position = Vector2(1707, 134)
+position = Vector2(74, -55)
 
 [node name="Timer" type="Timer" parent="Player" unique_id=1794999615]
 wait_time = 5.0

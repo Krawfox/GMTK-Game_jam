@@ -13,9 +13,9 @@ res://scenes/character_scenes/player/player.tscn::3733075e6237336e49fb78d9622260
 res://scenes/character_scenes/player/woulf_character.tscn::31023dd03609a68b14f00ebca4d4c4c4::1784898441::res://.godot/exported/133200997/export-12bdd68b00c9f2f960bb4a80c5fcc424-woulf_character.scn
 res://scenes/character_scenes/player.tscn::94d3fdfc62838a49af05a351593c8d60::1784898441::res://.godot/exported/133200997/export-65910cdf0f7c554c5ff0867a6eae1279-player.scn
 res://scenes/misc_scenes/collision.tscn::40a4bd657f6a7447f04561f3b4b3eb15::1784898441::res://.godot/exported/133200997/export-6b83bda50a4c5b512f530b39b6ee58b4-collision.scn
-res://scenes/misc_scenes/computer_portal.tscn::f4fc92bf9a6d15a4d5a3fca53f4b47d8::1784902206::res://.godot/exported/133200997/export-606d8e0d4afa8414ef98d0644bf811af-computer_portal.scn
+res://scenes/misc_scenes/computer_portal.tscn::689282448ebf37eebd41e6f130b40117::1785029282::res://.godot/exported/133200997/export-606d8e0d4afa8414ef98d0644bf811af-computer_portal.scn
 res://scenes/misc_scenes/control.tscn::8fc5400daa14f41f354695475c15d8d8::1784906054::res://.godot/exported/133200997/export-e16aef05e698bb6b0684d86e6e12f31b-control.scn
 res://scenes/misc_scenes/end_screen.tscn::08e39ab1c671f990173c2360467e6c36::1784906110::res://.godot/exported/133200997/export-2d9e38fa45bc24f53cb45e0b836f5e4f-end_screen.scn
-res://scenes/misc_scenes/game.tscn::e693485dc7301996d16672c8543e1583::1784907504::res://.godot/exported/133200997/export-49cc3be3c47b787024d943ae57154e82-game.scn
+res://scenes/misc_scenes/game.tscn::d07efc301a9f141abb5c21dc394e57cd::1785030372::res://.godot/exported/133200997/export-49cc3be3c47b787024d943ae57154e82-game.scn
 res://ui/menu.tscn::d2d5839393c20572908b019200a34970::1784905976::res://.godot/exported/133200997/export-57c87cac1b029075d2822cd8c8a060ff-menu.scn
 res://Test.tscn::d040d22518af14a0a1175a74dbac547e::1784898432::res://.godot/exported/133200997/export-424cafac01f45de89b53d7dc0c0edabc-Test.scn
