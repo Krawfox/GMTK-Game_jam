@@ -1,0 +1,3 @@
+res://scenes/misc_scenes/game.tscn
+res://scripts/player/player.gd
+res://scenes/misc_scenes/computer_portal.tscn
