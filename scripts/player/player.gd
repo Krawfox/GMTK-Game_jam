@@ -104,7 +104,7 @@ func _update_animations() -> void:
 		anim.play("jump")
 
 @onready var timer: Timer = $Timer
-@onready var label: Label = $Label
+@onready var label: Label = $"../CanvasLayer/Label"
 
 @onready var player_dead: AudioStreamPlayer2D = $"../player_dead"
 

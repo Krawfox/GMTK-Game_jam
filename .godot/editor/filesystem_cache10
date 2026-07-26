@@ -1,8 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1785029008
-export_presets.cfg::TextFile::-1::1784907522::0::1::::<><><>0<>0<><>::
-README.MD::TextFile::-1::1784910084::0::1::::<><><>0<>0<><>::
+::res://::1785034238
+export_presets.cfg::TextFile::-1::1785030391::0::1::::<><><>0<>0<><>::
+README.MD::TextFile::-1::1785031810::0::1::::<><><>0<>0<><>::
 Test.tscn::PackedScene::8099162704508995467::1784898432::0::1::::<><><>0<>0<><>::uid://ocqr4kaowgws::::res://icon.svg
+Updates.md::TextFile::-1::1785031875::0::1::::<><><>0<>0<><>::
 ::res://addons/::1784900705
 ::res://addons/godot_super-wakatime/::1784900705
 api_key_prompt.tscn::PackedScene::3919262858641749045::1784900705::0::1::::<><><>0<>0<><>::
@@ -728,16 +729,17 @@ player.png::CompressedTexture2D::8746116813777791975::1784898441::1784898581::1:
 player.tscn::PackedScene::7385036523980699778::1784898441::0::1::::<><><>0<>0<><>::uid://b4ta3tyio217r::::res://scripts/player/player.gd<>uid://dwuxjbu1a1xdv::::res://scenes/character_scenes/player/player.png
 Untitled design (1).png::CompressedTexture2D::175180043239971098::1784898441::1784898581::1::::<><><>0<>0<>1ca33bc7697106a0e8694dce8f3b3253<>res://.godot/imported/Untitled design (1).png-98be8eca6fa1e974786d880d7f2b4a03.ctex::
 woulf_character.tscn::PackedScene::7543220078996869106::1784898441::0::1::::<><><>0<>0<><>::res://assets/sprites/woulf_human/Black_Werewolf/Idle.png<>res://assets/sprites/woulf_human/Black_Werewolf/Run.png
-::res://scenes/misc_scenes/::1784908050
+::res://scenes/misc_scenes/::1785030565
 collision.tscn::PackedScene::2695723082033174929::1784898441::0::1::::<><><>0<>0<><>::uid://c1okth3ixpcny::::res://scripts/misc_scripts/collision.gd
-computer_portal.tscn::PackedScene::621396388085566671::1784902206::0::1::::<><><>0<>0<><>::uid://csifhsm2v1q06::::res://scripts/extras/computer_portal.gd<>uid://bx17kw8onmpid::::res://assets/tilesets/Fantasy Swamp Forest/Free/Terrain-and-Props-OLD.png
+computer_portal.tscn::PackedScene::621396388085566671::1785029282::0::1::::<><><>0<>0<><>::uid://ctjlsy5wasjdb::::res://scripts/extras/computer_portal.gd<>uid://bx17kw8onmpid::::res://assets/tilesets/Fantasy Swamp Forest/Free/Terrain-and-Props-OLD.png
 control.tscn::PackedScene::6077746089711238854::1784906054::0::1::::<><><>0<>0<><>::uid://cbl0bqp1wxkaw::::res://scripts/extras/menu.gd<>uid://xgoa55t4n6eg::::res://assets/Font Pack/Paint-JpZDE.ttf<>uid://xo4fbn0kufve::::res://assets/Font Pack/retro/retro.ttf<>uid://bwywpsj45sk55::::res://assets/UI Buttons/MediavelFree.png<>uid://d3inn0asxct2u::::res://assets/World/Background/back.png<>uid://chls18c73gdyu::::res://assets/Audio/click1.ogg
 end_screen.tscn::PackedScene::4407843137844409945::1784906110::0::1::::<><><>0<>0<><>::uid://cfh6x8ywqrqfi::::res://scripts/misc_scripts/end_screen.gd<>uid://d3inn0asxct2u::::res://assets/World/Background/back.png<>uid://bwywpsj45sk55::::res://assets/UI Buttons/MediavelFree.png<>uid://xgoa55t4n6eg::::res://assets/Font Pack/Paint-JpZDE.ttf<>uid://xo4fbn0kufve::::res://assets/Font Pack/retro/retro.ttf<>uid://chls18c73gdyu::::res://assets/Audio/click1.ogg
-game.tscn::PackedScene::1886038505940112260::1784908050::0::1::::<><><>0<>0<><>::uid://bx17kw8onmpid::::res://assets/tilesets/Fantasy Swamp Forest/Free/Terrain-and-Props-OLD.png<>uid://ddhmqcknf3pss::::res://scenes/character_scenes/player/player.tscn<>uid://ceo2enrc8ex8::::res://assets/tilesets/Environments/Forest/Forest Expansion Pack/Sprites/shroom_house.png<>uid://begip6u8cpmbc::::res://assets/tilesets/Environments/Forest/Forest Pack/PNG/environment/tileset.png<>uid://bhsd3ic6culue::::res://assets/tilesets/Fantasy Swamp Forest/Free/BG_3/BG_3.png<>uid://cda52qudqaahp::::res://assets/tilesets/Environments/Tall Forest/Tall Forest Expansion pack/Layers/tileset.png<>uid://cfkl5h4e56pdg::::res://assets/tilesets/Fantasy Swamp Forest/Free/BG_2/BG_2.png<>uid://4fu7dvpmrst5::::res://assets/tilesets/Fantasy Swamp Forest/Free/BG_1/BG_1.png<>uid://ben3fvdnccdhh::::res://scenes/misc_scenes/collision.tscn<>uid://wo8ro54m342l::::res://enemies/alien/alien.tscn<>uid://d1be5qw3l2snw::::res://enemies/ghost/ghost.tscn<>uid://bttsjij0ss8q0::::res://enemies/Frog/frog.tscn<>uid://c6diiunn70psp::::res://pickups/Cheery/cherry.tscn<>uid://c4nt45nm4upwy::::res://assets/Music/Dead.mp3<>uid://xo4fbn0kufve::::res://assets/Font Pack/retro/retro.ttf<>uid://cn7v2alkxuqbf::::res://assets/Music/jump_2.mp3
+game.tscn::PackedScene::1886038505940112260::1785030565::0::1::::<><><>0<>0<><>::uid://bx17kw8onmpid::::res://assets/tilesets/Fantasy Swamp Forest/Free/Terrain-and-Props-OLD.png<>uid://ddhmqcknf3pss::::res://scenes/character_scenes/player/player.tscn<>uid://ceo2enrc8ex8::::res://assets/tilesets/Environments/Forest/Forest Expansion Pack/Sprites/shroom_house.png<>uid://begip6u8cpmbc::::res://assets/tilesets/Environments/Forest/Forest Pack/PNG/environment/tileset.png<>uid://bhsd3ic6culue::::res://assets/tilesets/Fantasy Swamp Forest/Free/BG_3/BG_3.png<>uid://cda52qudqaahp::::res://assets/tilesets/Environments/Tall Forest/Tall Forest Expansion pack/Layers/tileset.png<>uid://cfkl5h4e56pdg::::res://assets/tilesets/Fantasy Swamp Forest/Free/BG_2/BG_2.png<>uid://4fu7dvpmrst5::::res://assets/tilesets/Fantasy Swamp Forest/Free/BG_1/BG_1.png<>uid://ben3fvdnccdhh::::res://scenes/misc_scenes/collision.tscn<>uid://wo8ro54m342l::::res://enemies/alien/alien.tscn<>uid://d1be5qw3l2snw::::res://enemies/ghost/ghost.tscn<>uid://bttsjij0ss8q0::::res://enemies/Frog/frog.tscn<>uid://c6diiunn70psp::::res://pickups/Cheery/cherry.tscn<>uid://c4nt45nm4upwy::::res://assets/Music/Dead.mp3<>uid://xo4fbn0kufve::::res://assets/Font Pack/retro/retro.ttf<>uid://cn7v2alkxuqbf::::res://assets/Music/jump_2.mp3<>uid://i4akpy2qvdjj::::res://scenes/misc_scenes/computer_portal.tscn
 ::res://scripts/::1784898441
 ::res://scripts/character_scripts/::1784898441
 player.gd::GDScript::4690633259788110644::1784898441::0::1::::<>CharacterBody2D<><>0<>0<><>::
-::res://scripts/extras/::1784904525
+::res://scripts/extras/::1785030195
+computer_portal.gd::GDScript::6125710135410907867::1785030195::0::1::::<>Area2D<><>0<>0<><>::
 kill_area.gd::GDScript::8479376369641167114::1784903018::0::1::::<>Area2D<><>0<>0<><>::
 kill_zone.gd::GDScript::4436670256525946625::1784898441::0::1::::<>Area2D<><>0<>0<><>::
 menu.gd::GDScript::4867258941689263062::1784904525::0::1::::<>Control<><>0<>0<><>::
@@ -745,7 +747,7 @@ menu.gd::GDScript::4867258941689263062::1784904525::0::1::::<>Control<><>0<>0<><
 collision.gd::GDScript::6627294101856524738::1784898441::0::1::::<>Area2D<><>0<>0<><>::
 end_screen.gd::GDScript::5140161301257863738::1784906089::0::1::::<>Control<><>0<>0<><>::
 home.gd::GDScript::4475255592791040427::1784898441::0::1::::<>Area2D<><>0<>0<><>::
-::res://scripts/player/::1784905787
-player.gd::GDScript::4461171364154756209::1784905787::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://scripts/player/::1785029307
+player.gd::GDScript::4461171364154756209::1785029307::0::1::::<>CharacterBody2D<><>0<>0<><>::
 ::res://ui/::1784905976
 menu.tscn::PackedScene::1592185310384557648::1784905976::0::1::::<><><>0<>0<><>::uid://cbl0bqp1wxkaw::::res://scripts/extras/menu.gd<>uid://xo4fbn0kufve::::res://assets/Font Pack/retro/retro.ttf<>uid://d3inn0asxct2u::::res://assets/World/Background/back.png<>uid://xgoa55t4n6eg::::res://assets/Font Pack/Paint-JpZDE.ttf<>uid://bwywpsj45sk55::::res://assets/UI Buttons/MediavelFree.png<>uid://chls18c73gdyu::::res://assets/Audio/click1.ogg
