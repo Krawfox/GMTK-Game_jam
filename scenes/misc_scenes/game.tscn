@@ -1179,6 +1179,6 @@ stream = ExtResource("16_8mbqa")
 
 [node name="computer_portal" parent="." unique_id=888117330 instance=ExtResource("17_8mbqa")]
 position = Vector2(1754, 167)
-script = null
 
 [connection signal="timeout" from="Player/Timer" to="Player" method="_on_timer_timeout"]
+[connection signal="body_entered" from="computer_portal" to="computer_portal" method="_on_body_entered"]
